@@ -1,0 +1,10 @@
+{
+  "name": "rank-and-nullity-film",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node main/film/tools/filmctl.mjs check",
+    "list": "node main/film/tools/filmctl.mjs list",
+    "render": "node main/film/tools/filmctl.mjs render"
+  }
+}

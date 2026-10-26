@@ -1,0 +1,15 @@
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+out/
+qa/
+*.log
+*.tmp
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+main/film/assets/voice/generated_tts_timing.json
